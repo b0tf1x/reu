@@ -1,1 +1,1 @@
-# Новая строка от person2
+print('Hello from file1')
